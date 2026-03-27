@@ -1,4 +1,4 @@
-package com.CampusNexa.exception;
+package com.campusnexa.exception;
 
 public class ResourceNotFoundException extends RuntimeException {
     public ResourceNotFoundException(String message) {

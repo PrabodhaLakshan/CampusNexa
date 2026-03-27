@@ -1,4 +1,4 @@
-package com.CampusNexa.service;
+package com.campusnexa.service;
 
 import com.campusnexa.exception.ResourceNotFoundException;
 import com.campusnexa.model.Resource;
