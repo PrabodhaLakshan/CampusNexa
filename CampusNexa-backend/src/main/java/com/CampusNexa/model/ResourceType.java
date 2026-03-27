@@ -1,4 +1,4 @@
-package com.campusnexa.model;
+package com.CampusNexa.model;
 
 public enum ResourceType {
     LECTURE_HALL,

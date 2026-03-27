@@ -1,7 +1,7 @@
-package com.campusnexa.controller;
+package com.CampusNexa.controller;
 
-import com.campusnexa.model.Resource;
-import com.campusnexa.service.ResourceService;
+import com.CampusNexa.model.Resource;
+import com.CampusNexa.service.ResourceService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

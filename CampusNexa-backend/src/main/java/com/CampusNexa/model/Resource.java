@@ -1,4 +1,4 @@
-package com.campusnexa.model;
+package com.CampusNexa.model;
 
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;

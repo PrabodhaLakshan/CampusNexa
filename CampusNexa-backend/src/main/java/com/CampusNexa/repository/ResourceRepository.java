@@ -1,4 +1,4 @@
-package com.campusnexa.repository;
+package com.CampusNexa.repository;
 
 import com.campusnexa.model.Resource;
 import com.campusnexa.model.ResourceType;

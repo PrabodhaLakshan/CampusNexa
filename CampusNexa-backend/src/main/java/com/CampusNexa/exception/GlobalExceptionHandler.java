@@ -1,4 +1,4 @@
-package com.campusnexa.exception;
+package com.CampusNexa.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
