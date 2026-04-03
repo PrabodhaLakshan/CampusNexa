@@ -1,9 +1,9 @@
-package com.campusnexa.service;
+package com.flexit.service;
 
-import com.campusnexa.exception.ResourceNotFoundException;
-import com.campusnexa.model.Resource;
-import com.campusnexa.model.ResourceType;
-import com.campusnexa.repository.ResourceRepository;
+import com.flexit.exception.ResourceNotFoundException;
+import com.flexit.model.Resource;
+import com.flexit.model.ResourceType;
+import com.flexit.repository.ResourceRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -61,3 +61,4 @@ public class ResourceService {
                 .collect(Collectors.toList());
     }
 }
+

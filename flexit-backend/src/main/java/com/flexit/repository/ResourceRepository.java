@@ -1,7 +1,7 @@
-package com.campusnexa.repository;
+package com.flexit.repository;
 
-import com.campusnexa.model.Resource;
-import com.campusnexa.model.ResourceType;
+import com.flexit.model.Resource;
+import com.flexit.model.ResourceType;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
@@ -16,3 +16,4 @@ public interface ResourceRepository extends MongoRepository<Resource, String> {
 
     List<Resource> findByCapacityGreaterThanEqual(Integer capacity);
 }
+

@@ -1,7 +1,7 @@
-package com.campusnexa.controller;
+package com.flexit.controller;
 
-import com.campusnexa.model.Resource;
-import com.campusnexa.service.ResourceService;
+import com.flexit.model.Resource;
+import com.flexit.service.ResourceService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -57,3 +57,4 @@ public class ResourceController {
         return ResponseEntity.ok(resourceService.searchResources(type, capacity, location));
     }
 }
+

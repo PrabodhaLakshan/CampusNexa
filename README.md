@@ -1,2 +1,3 @@
-# CampusNexa
-CampusNexa is a smart campus operations web application built with Spring Boot and React for managing campus resources, bookings, maintenance tickets, notifications, and role-based access.
+# Flexit
+Flexit is a smart campus operations web application built with Spring Boot and React for managing campus resources, bookings, maintenance tickets, notifications, and role-based access.
+
